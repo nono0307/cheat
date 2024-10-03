@@ -1,0 +1,31 @@
+Pour avoir le mot de passe du wifi enregister dans le pc
+
+netsh wlan show profiles
+"copiez le nom du wifi" puis mettre "netsh wlan show profiles NOM DU WIFI key = clear"
+
+
+Pour eteindre un pc a distance 
+
+écrir netstat puis copiez l'adresse ip
+shutdown -i puis collez l'adresse ip
+shutdown -a pour arrèter
+
+
+Pour les lettre qui dance
+
+curl parrot.live
+ou curl ascii.live forrest
+ouu curl ascii.live/can-you-hear-me
+
+
+Pour les écran de veille
+
+les bulle = bubbles.scr/65552
+
+les lasers = ribbons.scr/65552
+
+
+Pour faire semblant de hacker
+color p pour voir les couleurs
+mettre color...
+puis écrire DIR/S puis ENTRER

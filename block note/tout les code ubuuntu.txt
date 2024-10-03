@@ -1,0 +1,15 @@
+tuto
+etape 1 pour installer linux lancez ececuter en tant que adminstrateur tapez wsl install
+etape 2 redemarrer et finir l installation 
+etape 3 aller dans powershell pas en administrateur nouvel onglet et mettre obunntu
+etape 4 mettre un pseudo et mot de passe puis mettre la commande une fois et mettre le mot de pass puis remettre la commande avec un espace et enlever l espace puis entrer 
+etape 5 hacker hahahaha
+
+commandes =
+
+cd Mr.Holmes
+sudo python3 MrHolmes.py
+OR:
+cd Mr.Holmes
+cd Launchers
+Execute Launcher.sh
